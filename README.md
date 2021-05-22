@@ -12,6 +12,8 @@
      
      Twitter: [@ZoeDuan2](https://twitter.com/ZoeDuan2)
      
+     Google Scholar: https://scholar.google.com/citations?user=2H9meH0AAAAJ&hl=zh-CN
+     
      ResearchGate: https://www.researchgate.net/profile/Ziyi_Duan
 
 <!---
