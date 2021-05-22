@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZiyiDuan
 - 👀 I’m interested in human mind and brain, especially the vision and memory
-- 🌱 I’m currently learning psychology and cognitive neuroscience
+- 🌱 I’m currently a master student learning psychology and cognitive neuroscience
 - 💞️ I’m looking to collaborate on using up-to-date techniques to investigate our visual and memory system! Including but not limited to machine learning, computational modeling, psychophysics, EEG, fMRI...
 - 📫 How to reach me: 
      
