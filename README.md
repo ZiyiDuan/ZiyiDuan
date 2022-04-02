@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @ZiyiDuan
-- 👀 I’m interested in human mind and brain, especially the vision and memory
-- 🌱 I’m currently a master student learning psychology and cognitive neuroscience, and applying for a PhD program
+- 👀 I’m interested in the neural and computational mechanisms of human mind and brain, especially the visual and memory systems
+- 🌱 I’m currently a prospective PhD student in the Department of Psychology, at NYU, under the supervision of [Dr. Clayton curtis](https://www.clayspacelab.com/). 
      
      For more information, please check my [CV](https://docs.google.com/document/d/1TJdox0sSVh5sWYU8Gy4Vu34LtOKBbrN0pcIrhLedxMU/edit?usp=sharing) !
-- 💞️ I’m looking to collaborate on using up-to-date techniques to investigate our visual and memory system! Including but not limited to machine learning, computational modeling, psychophysics, EEG, fMRI...
+- 💞️ I’m looking to collaborate on using up-to-date techniques to investigate our visual and memory systems! Including but not limited to machine learning, computational modeling, psychophysics, EEG, fMRI...
 - 📫 How to reach me: 
      
-     Email: zoeduan.live@gmail.com
+     Email: zoeduan.sci@gmail.com
+     
+     Website: https://ziyiduan.github.io/
      
      GitHub: https://github.com/ZiyiDuan  
      
