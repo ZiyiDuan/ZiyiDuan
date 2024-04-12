@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZiyiDuan
 - 👀 I’m interested in the neural and computational mechanisms of human mind and brain, especially the visual and memory systems
-- 🌱 I’m currently a prospective PhD student in the Department of Psychology, at NYU, under the supervision of [Dr. Clayton curtis](https://www.clayspacelab.com/). 
+- 🌱 I’m currently a PhD student in the Department of Psychology, at NYU, under the supervision of [Dr. Clayton curtis](https://www.clayspacelab.com/). 
      
      For more information, please check my [CV](https://docs.google.com/document/d/1TJdox0sSVh5sWYU8Gy4Vu34LtOKBbrN0pcIrhLedxMU/edit?usp=sharing) !
 - 💞️ I’m looking to collaborate on using up-to-date techniques to investigate our visual and memory systems! Including but not limited to machine learning, computational modeling, psychophysics, EEG, fMRI...
