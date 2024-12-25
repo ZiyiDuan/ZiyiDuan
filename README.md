@@ -14,9 +14,11 @@
      
      Twitter: [@ZoeDuan2](https://twitter.com/ZoeDuan2)
      
-     Google Scholar: https://scholar.google.com/citations?user=2H9meH0AAAAJ&hl=zh-CN
+     Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=PBbEUyYAAAAJ 
      
      ResearchGate: https://www.researchgate.net/profile/Ziyi_Duan
+
+     Linkin: https://www.linkedin.com/in/zoe-duan-8a0049334/
 
 <!---
 ZiyiDuan/ZiyiDuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
