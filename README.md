@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on using up-to-date techniques to investigate our visual and memory systems! Including but not limited to machine learning, computational modeling, psychophysics, EEG, fMRI...
 - 📫 How to reach me: 
      
-     Email: zoeduan.sci@gmail.com
+     Email: [zoeduan.sci@gmail.com](mailto:zoeduan.sci@gmail.com)
      
      Website: https://ziyiduan.github.io/
      
